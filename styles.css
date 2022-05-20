@@ -42,6 +42,16 @@ ul {
 	box-shadow: rgba(149, 157, 165, 0.08) 0px 8px 24px;
 }
 
+.header-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.header-logo img {
+	height: 4rem;
+}
+
 .header ul {
 	display: flex;
 	justify-content: space-between;
